@@ -15,7 +15,7 @@
 
 ### About
 
-I build agentic systems end to end: the orchestration graph, the retrieval layer underneath it, the API that serves it, and the interface people actually use.
+I build software and agentic systems end to end, designing them, building the orchestration layers, the retrieval layers underneath, the APIs that serve it, along with the people facing interfaces.
 
 MSc Computer Science (AI/ML focus) from University College Dublin, First Class Honours, 2026. EU work authorised.
 
