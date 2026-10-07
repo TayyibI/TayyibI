@@ -15,7 +15,7 @@
 
 ### About
 
-I build agentic systems end to end: the orchestration graph, the retrieval layer underneath it, the API that serves it, and the interface people actually use. 
+I build agentic systems end to end: the orchestration graph, the retrieval layer underneath it, the API that serves it, and the interface people actually use.
 
 MSc Computer Science (AI/ML focus) from University College Dublin, First Class Honours, 2026. EU work authorised.
 
@@ -28,7 +28,10 @@ MSc Computer Science (AI/ML focus) from University College Dublin, First Class H
 | **[baseline-guardv3](https://github.com/TayyibI/baseline-guardv3)** | GitHub Action that fails CI when JS/CSS uses web-platform features outside your Baseline target. Parses with Acorn and PostCSS, checks against the web-features dataset, and emits an HTML report. | JavaScript, GitHub Actions |
 | **MCP connector for a finance platform** *(private)* | Model Context Protocol server that lets Claude query live platform data through a read-only FastAPI tool surface. | Python, FastAPI, MCP |
 
-**Currently building:** a conversational RAG assistant over Irish government websites, designed to handle vague questions as well as precise ones.
+
+### Writing
+
+**[Representational Laundering](https://github.com/TayyibI/writing/blob/main/representational-laundering.md)**: an essay on why connectionist models keep reinventing physiognomy. It uses a 2020 *Nature Communications* paper, which claimed to read trustworthiness from faces in historical paintings, to show how a modeller's assumptions come back out of a network looking like findings.
 
 ### Experience
 
