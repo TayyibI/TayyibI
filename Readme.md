@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/tayyib-ismail/">LinkedIn</a> ·
   <a href="mailto:tayyibismail1234@gmail.com">Email</a> ·
   <a href="https://github.com/TayyibI?tab=repositories">All repositories</a>
 </p>
@@ -15,9 +15,8 @@
 
 ### About
 
-I build agentic systems end to end: the orchestration graph, the retrieval layer underneath it, the API that serves it, and the interface people actually use. Most of my recent work has been in corporate finance, where an answer that sounds right but is wrong costs money, so I care about structured outputs, adversarial checks, and audit trails more than demos.
-
-MSc Computer Science (AI/ML focus) from University College Dublin, First Class Honours, 2026. EU work authorisation.
+I build agentic systems end to end: the orchestration graph, the retrieval layer underneath it, the API that serves it, and the interface people actually use. 
+MSc Computer Science (AI/ML focus) from University College Dublin, First Class Honours, 2026. EU work authorised.
 
 ### Selected work
 
@@ -63,5 +62,5 @@ MSc Computer Science (AI/ML focus) from University College Dublin, First Class H
 ---
 
 <p align="center">
-  Open to AI/ML engineering roles in Dublin and London.
+  Open to AI/ML and Software engineering roles across Europe.
 </p>
