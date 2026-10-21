@@ -38,7 +38,7 @@ MSc Computer Science (AI/ML focus) from University College Dublin, First Class H
 | Role | Company | Focus |
 |---|---|---|
 | AI/ML Engineering Intern | **Assiduous** (NovaUCD, Dublin) | AI-powered corporate finance platform for SMEs. Worked across the Next.js frontend and Python/FastAPI backend: agent tooling, MCP connector, React Flow graph editors, audit-trail event logging. |
-| Lead AI/ML Engineer | **Parbat** (Pegasus Angel Accelerator) | Led AI/ML engineering at an Irish retail AI startup. |
+| Lead AI/ML Engineer | **Parbat** (Pegasus Angel Accelerator) | Led AI/ML engineering at a US retail AI startup. |
 | Data Engineering | **Daraz** (Alibaba Group) | Data engineering for a large e-commerce marketplace. |
 | AI Engineering | **Qavi Tech** | Applied AI engineering. |
 | Software Engineering Intern | **KCompute** | Software engineering. |
