@@ -27,7 +27,6 @@ MSc Computer Science (AI/ML focus) from University College Dublin, First Class H
 | **[finance-autopilot](https://github.com/TayyibI/finance-autopilot)** | Six-agent adversarial pipeline that red-teams an investment thesis. A private-equity-style Critic and an Upside Modeler are held to opposing Pydantic constraints, so they are structurally incapable of agreeing. Orchestration is hand-rolled rather than framework-driven, with every agent output schema-validated and retried on failure. Includes a React Flow view of the agent graph and a live "Interrogation Room" chat. Built at a hackathon; it led directly to my internship offer. | Python, Anthropic SDK, Pydantic, FastAPI, Next.js, React Flow |
 | **[glowai](https://github.com/TayyibI/glowai)** | Mobile-first skin and hair analysis web app. Vendor analysis sits behind a single adapter interface, so the mock and the live integration swap with one feature flag. | Next.js, TypeScript |
 | **[baseline-guardv3](https://github.com/TayyibI/baseline-guardv3)** | GitHub Action that fails CI when JS/CSS uses web-platform features outside your Baseline target. Parses with Acorn and PostCSS, checks against the web-features dataset, and emits an HTML report. | JavaScript, GitHub Actions |
-| **MCP connector for a finance platform** *(private)* | Model Context Protocol server that lets Claude query live platform data through a read-only FastAPI tool surface. | Python, FastAPI, MCP |
 
 
 ### Writing
